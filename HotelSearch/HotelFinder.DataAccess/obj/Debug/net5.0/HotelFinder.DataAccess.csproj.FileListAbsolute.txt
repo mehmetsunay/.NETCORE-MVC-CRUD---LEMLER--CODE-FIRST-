@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\HotelSearch\HotelFinder.DataAccess\obj\Debug\net5.0\HotelFinder.DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HotelSearch\HotelFinder.DataAccess\obj\Debug\net5.0\HotelFinder.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HotelSearch\HotelFinder.DataAccess\obj\Debug\net5.0\HotelFinder.DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HotelSearch\HotelFinder.DataAccess\obj\Debug\net5.0\HotelFinder.DataAccess.AssemblyInfo.cs
+C:\Users\User\source\repos\HotelSearch\HotelFinder.DataAccess\obj\Debug\net5.0\HotelFinder.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HotelSearch\HotelFinder.DataAccess\bin\Debug\net5.0\HotelFinder.DataAccess.deps.json
+C:\Users\User\source\repos\HotelSearch\HotelFinder.DataAccess\bin\Debug\net5.0\HotelFinder.DataAccess.runtimeconfig.json
+C:\Users\User\source\repos\HotelSearch\HotelFinder.DataAccess\bin\Debug\net5.0\HotelFinder.DataAccess.runtimeconfig.dev.json
+C:\Users\User\source\repos\HotelSearch\HotelFinder.DataAccess\bin\Debug\net5.0\HotelFinder.DataAccess.dll
+C:\Users\User\source\repos\HotelSearch\HotelFinder.DataAccess\bin\Debug\net5.0\ref\HotelFinder.DataAccess.dll
+C:\Users\User\source\repos\HotelSearch\HotelFinder.DataAccess\bin\Debug\net5.0\HotelFinder.DataAccess.pdb
+C:\Users\User\source\repos\HotelSearch\HotelFinder.DataAccess\bin\Debug\net5.0\HotelFinder.Entities.dll
+C:\Users\User\source\repos\HotelSearch\HotelFinder.DataAccess\bin\Debug\net5.0\HotelFinder.Entities.pdb
+C:\Users\User\source\repos\HotelSearch\HotelFinder.DataAccess\obj\Debug\net5.0\HotelFinder.DataAccess.dll
+C:\Users\User\source\repos\HotelSearch\HotelFinder.DataAccess\obj\Debug\net5.0\ref\HotelFinder.DataAccess.dll
+C:\Users\User\source\repos\HotelSearch\HotelFinder.DataAccess\obj\Debug\net5.0\HotelFinder.DataAccess.pdb
+C:\Users\User\source\repos\HotelSearch\HotelFinder.DataAccess\obj\Debug\net5.0\HotelFinder.DataAccess.genruntimeconfig.cache
